@@ -1,0 +1,153 @@
+		header ul{
+	width: 100%;
+	height: .37rem;
+	background: #c60000;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex: 1;
+}
+header ul li {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+}
+    header ul li:nth-child(1){
+      margin-left: 0.06rem;
+    }
+    header ul li:nth-child(3){
+      margin-right: 0.06rem;
+    }
+header ul li input{
+	width: 3rem;
+	height: .248rem;
+	border: none;
+	font-size: .12rem;
+	color: white;
+	text-align: center;
+	background: #ad0002;
+	border-radius: 5px;
+
+
+}
+header ul li:nth-child(1) a img{
+  display: block;
+width: .15rem;
+height: .16rem;
+}
+header ul li:nth-child(2) img{
+width: .14rem;
+height: .14rem;
+position: absolute;
+left: 24%;
+}
+header ul li:nth-child(3) img{
+width: .152rem;
+height: .16rem;
+}
+header ul li span{
+	color: white;
+	margin-top: 1px;
+	font-size: .16rem;
+}
+.lbt{
+	width: 100%;
+	height: 1.31rem;
+}
+.lbt img{
+	width: 100%;
+	height: 100%;
+}
+.liebiao{
+	height: 1.725rem;
+	width: 100%;
+}
+.liebiao ul{
+	height: .8625rem;
+	width: 100%;
+	display: flex;
+}
+.liebiao ul li{
+	width: .94rem;
+ height: .94rem;
+	background: white;
+	font-size: .14rem;
+	color: #333;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	border-left: 0.6px solid gray;
+}
+.liebiao ul li:nth-child(1){
+	border: none;
+}
+.liebiao ul li img{
+	margin-top: 0.1rem;
+	width: .5rem;
+	height: .5rem;
+}
+.miss{
+	margin-top: -.74rem;
+	width: 100%;
+	height:.4rem;
+	background: white;
+	clear: both;
+	display: flex;
+	align-items: center;
+	margin-bottom: .06rem;
+}
+.miss a{
+	font-size: .14rem;
+	display: block;
+	width: .6rem;
+	height: .2rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-right: 2px solid gray;
+}
+.miss a:last-child{
+	border: none;
+}
+
+footer{
+	height: 3rem;
+	width: 100%;
+	background: white;
+}
+footer ul{
+	height: .87rem;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+footer ul li{
+	width: .45rem;
+	height: .675rem;
+	display: flex;
+
+}
+footer ul li:nth-child(1){
+	margin-left: .2rem;
+}
+footer ul li:nth-child(3){
+	margin-right: .2rem;
+}
+footer ul li img{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.huan{
+	position: fixed;
+	left: 0.16rem;
+	bottom: .4rem;
+}
+.huan img{
+	width: .46rem;
+	height: .46rem;
+}

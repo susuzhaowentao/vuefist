@@ -1,0 +1,60 @@
+	/*body{*/
+		/*background: #eee;*/
+	/*}*/
+		.tb{
+			width: 100%;
+			height: 2.13rem;
+		}
+		.tb a{
+			width: 100%;
+			height: 100%
+		}
+		.tb img{
+			width: 100%;
+			height: 100%
+		}
+		.tupian{
+			width: 3.5rem;
+			height: 2.5rem;
+			background: white;
+			margin: 0 auto;
+			margin-top: 0.1rem;
+			display: flex;
+		}
+		.tupian img{
+			width: 45%;
+			height: 100%;
+			margin-left: .12rem;
+		}
+		.xqqq{
+      width: 3.5rem;
+      /*height: 2rem;*/
+			background:white;
+      margin:0 auto;
+		margin-top: 0.1rem;
+      display: flex;
+      flex-direction: column;
+		}
+		.xqqq p{
+			width: 3.2rem;
+			height: .4rem;
+			font-size: .14rem;
+			color: #343434;
+      margin-left: .2rem;
+      padding-top: .02rem;
+		}
+		.xqqq h6{
+      width: 3.2rem;
+      display: flex;
+			font-size: .12rem;
+			font-weight: 200;
+			color: #939393;
+      margin-left: .2rem;
+			margin-top: .02rem;
+		}
+		.xqqq h6 span{
+			margin-left: .2rem;
+			font-size: .14rem;
+
+
+		}

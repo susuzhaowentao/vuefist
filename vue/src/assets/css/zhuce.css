@@ -1,0 +1,114 @@
+body{
+		background: white;
+	}
+		.db{
+			width: 100%;
+			height: .37rem;
+			background: #c80000;
+		}
+		.db ul{
+			width: 100%;
+			height: .37rem;
+			display: flex;
+			justify-content: space-between;
+		}
+		.db ul li{
+			display: flex;
+			height: .37rem;
+			align-items: center;
+
+		}
+			.db ul li:nth-child(1){
+				margin-left: 0.1rem;
+			}
+				.db ul li:nth-child(2){
+				margin-left: 0.4rem;
+			}
+				.db ul li:nth-child(3){
+				margin-right: 0.1rem;
+			}
+		.db ul li img{
+			display: block;
+			width: 0.09rem;
+			height: 0.17rem;
+		}
+		.db ul li h4 a{
+			font-size: .16rem;
+			color: white;
+			text-align: center;
+		}
+			.db ul li a{
+			font-size: .14rem;
+			color: white;
+		}
+			form{
+			font-size: .16rem;
+			color: #333;
+			/*text-align: center;*/
+			margin-left: 0.25rem;
+
+		}
+		form input{
+				width: 2.6rem;
+				height: 0.48rem;
+				border: none;
+				margin-top: 0.1rem;
+				outline: none;
+				font-size: .16rem;
+      background: #eee;
+
+
+		}
+		form img{
+			display: block;
+			width:3.3rem;
+			/*padding-top: -.2rem;*/
+			margin-top: 0rem;
+		}
+		form .btnnn{
+					width: 3.3rem;
+					margin-top: 0.5rem;
+					font-size: .18rem;
+					font-weight: 600;
+					color: white;
+					background: #cccccc;
+					margin-bottom: 0;
+				}
+		/*form input:nth-child(1){
+
+			margin-left: .25rem;
+		}
+		form input:nth-child(2){
+			margin-top: 0.12rem;
+			margin-left: .25rem;
+		}*/
+		form a{
+			display:block;
+			font-size: 0.14rem;
+			width: 3.3rem;
+		color: #007aff;
+			margin-top: 0.1rem;
+			margin-left: .04rem;
+			text-align: center;
+		}
+		form .yzm{
+			width: 1.38rem;
+			margin-left: 0.005rem;
+			text-align: left;
+		}
+			form .huyzm{
+			width: 1rem;
+			height: .38rem;
+			border-radius: 0.05rem;
+			margin-left: 0.18rem;
+			background: #c80000;
+			border: none;
+			color: white;
+			}
+			form .imgyz{
+				width: 2rem;
+			}
+			form a b{
+				color:#a2a2a2;
+				font-weight: 500;
+			}
